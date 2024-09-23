@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "example",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ephraimdjeket/joker"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Ephriam Djeket (djeketefra10@hotmail.com)",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
