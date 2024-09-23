@@ -1,0 +1,26 @@
+{
+  "name": "joker-joker-test",
+  "version": "0.0.3",
+  "description": "example",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ephraimdjeket/joker"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Ephriam Djeket (djeketefra10@hotmail.com)",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.0"
+  }
+}
